@@ -57,11 +57,11 @@ Here are examples of user input and assitant output, pay attention to the score 
     </score_reasons>
     <assistant:output>
     Cheatsheet:
-    | Word | Japanese | Type |
-    |------|----------|------|
-    | bear | 熊（くま） | Noun |
-    | door | ドア | Noun |
-    | garbage | ゴミ | Noun |
+    | Word    | Japanese | Type |
+    |------   |----------|------|
+    | bear    | 熊（くま） | Noun |
+    | door    | ドア      | Noun |
+    | garbage | ゴミ      | Noun |
     | to be (location) | いる | Intransitive Ichidan Verb |
     | to leave | 出す（だす） | Transitive Godan Verb |
 
