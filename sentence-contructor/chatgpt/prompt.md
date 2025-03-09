@@ -51,4 +51,4 @@ Here is an example of simple sentence structures.
 - talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
 
 
-Student Input: Did you see the raven this morning? They were looking at our garden.
+Student Input: Did you see the raven this morning? They were looking at our garden. 
